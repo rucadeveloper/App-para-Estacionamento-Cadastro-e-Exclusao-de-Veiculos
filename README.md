@@ -1,4 +1,4 @@
-# Aplicação para Estaciomento - Cadastros e Exclusão de Veículos
+# Aplicação para Estacionamento - Cadastros e Exclusão de Veículos
 
 ## Instalar Node JS
 ```
