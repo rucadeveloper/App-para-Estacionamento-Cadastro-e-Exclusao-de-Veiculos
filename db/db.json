@@ -1,0 +1,22 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Finalizado"
+    }
+  ],
+  "carros": [
+    {
+      "nome": "Leonardo Coffee Tag",
+      "nomeCarro": "Ferrari",
+      "placaCarro": "NGB-5874",
+      "hora": "12:20",
+      "status": "Solicitado",
+      "id": 1
+    }
+  ]
+}
