@@ -1,7 +1,7 @@
 <template>
     
     <footer id="footer">
-         <p> Sistema de Estacionamento 2021 &copy; - Coffee Tag </p>
+         <p> Sistema de Estacionamento 2022 &copy; - rucadeveloper </p>
 
     </footer>     
 
